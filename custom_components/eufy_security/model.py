@@ -21,7 +21,7 @@ class ConfigField(Enum):
     """Config and Options Fields"""
 
     host = "127.0.0.1"
-    port = 3000
+    port = 4000
     sync_interval = 600  # seconds
     rtsp_server_address = auto()
     rtsp_server_port = 8554
