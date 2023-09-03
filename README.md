@@ -1,3 +1,5 @@
+This is a modified version.
+
 Welcome to Alpha release of Eufy Security Integration for Home Assistant. Congratulations on being a brave heart and trying this version.
 
 - [Gratitude](#gratitude)
